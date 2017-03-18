@@ -37,6 +37,14 @@ footer {
 h1 {
   text-align:center;
 }
+
+.photo {
+  background-color:#0099cc;
+  margin: 20px 200px 20px 200px;
+  padding: 20px;
+  border: 2px solid;
+  border-radius:20px;
+}
 /*div {
   border-style:outset;
   border-width:medium;
