@@ -1,10 +1,10 @@
 body {
-  background-color: lightgreen;
+  background-color: #336600;
   text-align: center;
   font-family: sans-serif;
 }
 
-div {
+p {
   font-family: sans-serif;
   max-width: 750px;
   text-align: center;
@@ -16,3 +16,27 @@ header {
   margin-top: 25px;
   margin-bottom: 50px;
 }
+
+div {
+  margin-top:50px;
+  margin-bottom:50px;
+
+}
+
+img {
+  width:750;
+  height:562;
+}
+/*div {
+  border-style:outset;
+  border-width:medium;
+  background-color:#336699;
+  padding:0;
+  margin-left:0;
+  margin-right:0;
+}
+
+
+/*h3 {
+  padding:0;
+}*/
