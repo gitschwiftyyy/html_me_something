@@ -28,7 +28,30 @@ div {
 }
 
 
+#article {
+  background-color:#0099cc;
+  margin: 20px 200px 20px 200px;
+  padding: 20px;
+  border: 2px solid;
+  border-radius:20px;
 }
+
+.button {
+  background-color:#ff0000;
+  margin: 20px 550px 20px 550px;
+  padding: 10px;
+  border: 2px solid;
+  border-radius:20px;
+  text-align:center;
+}
+#intro {
+  background-color:#ffff00;
+  margin: 20px 200px 20px 200px;
+  padding: 20px;
+  border: 2px solid;
+  border-radius:20px;
+}
+
 footer {
   text-align:left;
   margin-top:75px;
@@ -45,6 +68,14 @@ h1 {
   border: 2px solid;
   border-radius:20px;
 }
+
+/*article {
+  background-color:#0099cc;
+  margin: 20px 200px 20px 200px;
+  padding: 20px;
+  border: 2px solid;
+  border-radius:20px;
+}*/
 /*div {
   border-style:outset;
   border-width:medium;
