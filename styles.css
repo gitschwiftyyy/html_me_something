@@ -32,6 +32,10 @@ footer {
   text-align:left;
   margin-top:75px;
 }
+
+h1 {
+  text-align:center;
+}
 /*div {
   border-style:outset;
   border-width:medium;
