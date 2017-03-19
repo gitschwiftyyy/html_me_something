@@ -49,6 +49,8 @@ div {
   border: 2px solid;
   border-radius:20px;
   text-align:center;
+  font-weight:bold;
+  color:black;
 }
 #intro {
   background-color:#ffff00;
@@ -75,6 +77,28 @@ h1 {
   border-radius:20px;
 }
 
+a:link{
+  color:black;
+  text-decoration:none;
+
+}
+
+a:visited {
+  color:black;
+  text-decoration:none;
+}
+
+a:hover {
+  color:white;
+  text-decoration:none;
+}
+
+a:active {
+  color:black;
+  text-decoration:none;
+}
+  
+  
 /*article {
   background-color:#0099cc;
   margin: 20px 200px 20px 200px;
